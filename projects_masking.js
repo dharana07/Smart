@@ -1,1 +1,1 @@
-["pngmx", "pngbr", "gskjp", "ccaau", "beiersdorfco", "sinoth", "diageous", "pepsicoes", "sanofies", "diageotw", "beiersdorfin", "kibonbr", "pnghk", "altriaus", "munchysmy", "beiersdorfchl"]
+["pngmx", "pngbr", "gskjp", "ccaau", "beiersdorfco", "sinoth", "diageous", "pepsicoes", "sanofies", "diageotw", "beiersdorfin", "kibonbr", "pnghk", "altriaus", "munchysmy", "beiersdorfchl", "gskgs"]
